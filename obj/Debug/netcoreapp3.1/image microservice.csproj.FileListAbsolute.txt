@@ -1,0 +1,20 @@
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\image microservice.exe
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\image microservice.deps.json
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\image microservice.runtimeconfig.json
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\image microservice.runtimeconfig.dev.json
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\image microservice.dll
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\bin\Debug\netcoreapp3.1\image microservice.pdb
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.csprojAssemblyReference.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.AssemblyInfo.cs
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.RazorTargetAssemblyInfo.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\staticwebassets\image microservice.StaticWebAssets.Manifest.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\staticwebassets\image microservice.StaticWebAssets.xml
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.dll
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.pdb
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\image microservice.genruntimeconfig.cache

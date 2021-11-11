@@ -1,0 +1,4 @@
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\texture microservice.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\texture microservice.AssemblyInfo.cs
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\texture microservice.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\OSU\CS 361\texture microservice\texture microservice\obj\Debug\netcoreapp3.1\texture microservice.MvcApplicationPartsAssemblyInfo.cache
